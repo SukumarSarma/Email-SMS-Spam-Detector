@@ -23,18 +23,17 @@ This Web app can predict the Email/SMS as Spam or Not Spam.
   
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1zRU6cEV5D4PSUA4ARruzd02BihTWCMSN/view?usp=sharing)
-![App Screenshot](https://drive.google.com/file/d/1ID25zcxfbkwUPXVka6HllSkyqaxc_Y2t/view?usp=sharing)
+For SPAM:
+![Screenshot (206)](https://user-images.githubusercontent.com/86522739/133989514-40441c47-b821-43db-a251-12ff286b014e.png)
+
+For Not SPAM/HAM
+![Screenshot (207)](https://user-images.githubusercontent.com/86522739/133989530-74fc156d-c726-47b9-b68d-0e9a0e33aeff.png)
 
   
-
-
   
 
   
-
-  
-##Link for my Email/SMS Spam Detector Web App
+##  Link for my Email/SMS Spam Detector Web App
 
 https://sukumars-spam-detector.herokuapp.com/
 
